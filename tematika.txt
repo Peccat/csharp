@@ -1,0 +1,21 @@
+. óra 	Visual Studio Code bemutatása(hogyan mentik el, hogy nyitnak meg új filet), Visual Studio 2022 ismertetése, 
+			alapok(szintaxis), miért hasznos a c#, mire használják, kiírás(Hello World) 
+. óra	Bekérés, kiiratás, Változók létrehozása, összeadása, összefűzése... (lokális, globális),
+. óra	véletlen számok, abszolút érték, .Compare(), (private, public)
+. óra  	Ciklusok1 Tömbök + for ciklus
+. óra	Ciklusok2 Több dimenziós tömb + for in for 
+. óra  	Ciklusok3 (do while, while)
+. óra	Cilusok4 (foreach)
+. óra  	#1 Programozási tételek: Sorozatszámítás, összesítés
+. óra  	Elágazások(switch case, if, else if)
+. óra  	#2 Programozási tételek: Megszámlálás, Maximum kiválasztás
+. óra  	#3 Programozási tételek: Eldöntés, Lineáris keresés
+. óra  	#4 Programozási tételek: Kiválogatás, Buborékos rendezés
+. óra  	File kezelés(írás, olvasás)
+. óra  	Projekt óra (Érettségi feladatsor megnézése, mikor melyik programozási tétel kell)
+. óra  	Függvények(void, string, int...), származtatás, öröklődés
+. óra  	Projekt óra (Érettségi feladat megoldása együtt)
+. óra	Projekt óra	(Érettségi feladat megoldása együtt)
+. óra 	Projekt óra (Érettségi feladat megoldása egyedül)
+. óra  	Bemutató órára felkészülés
+. óra  	Bemutató óra 

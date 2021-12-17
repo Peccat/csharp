@@ -1,0 +1,7 @@
+https://tudasbazis.sulinet.hu/hu/informatika/informatika/informatika-9-12-evfolyam/algoritmizalas-adatmodellezes-programozoi-ismeretek/programozas-c-kornyezetben
+https://github.com/Peccat/csharptananyag
+https://docs.microsoft.com/en-us/dotnet/csharp/
+https://www.youtube.com/watch?v=hHszJUvynlc&list=PL8l6M-0GWNq07jFCk69YUwFW30_iHW7IR
+https://www.informatikatanarok.hu/erettsegi-feladatok/emelt-szintu-informatika-erettsegi-feladatok-es-megoldasok
+https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok
+w3schools.com
